@@ -36,9 +36,8 @@ export default class Login extends Component {
     return (
       <React.Fragment>
       <div className = "row align-items-center">
-      // {JSON.stringify(this.state.form)}
-        <div className = "col col-md-2">
-        </div>
+      
+        
         <div className = "col">
           <div className="card">
           <div className="card-body">
@@ -56,8 +55,7 @@ export default class Login extends Component {
           </div>
         </div>
         </div>
-        <div className = "col col-md-2">
-        </div>
+       
       </div>
         
 
